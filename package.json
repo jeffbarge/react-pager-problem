@@ -1,0 +1,21 @@
+{
+  "name": "react-pager-repro",
+  "version": "1.0.0",
+  "dependencies": {
+  	"react": "",
+  	"react-pager": ""
+  },
+  "devDependencies": {
+  	"grunt": "~0.4.0",
+  	"grunt-browserify": "",
+  	"grunt-react": "",
+  	"grunt-contrib-connect": ""
+  	},
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
